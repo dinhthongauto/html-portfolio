@@ -1,0 +1,25 @@
+:root {
+    --text-color: green;
+}
+
+
+
+.box {
+    background-color: orange;
+    height: 100px;
+    position: relative;
+}
+
+h3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+/* padding
+border
+margin 
+background*/
